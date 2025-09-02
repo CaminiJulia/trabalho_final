@@ -1,3 +1,8 @@
+### Autoria
+
+- **Nome:** Julia Camini Veiga
+- **Matrícula:** 202606
+
 # Projeto: Gerenciador de Produtos com Testes
 
 Este projeto é uma aplicação web CRUD (Create, Read, Update, Delete) desenvolvida em Flask, com uma suíte de testes completa cobrindo os três níveis da pirâmide de testes.
@@ -51,5 +56,3 @@ pytest tests/unit/
 pytest tests/integration/
 pytest tests/system/
 
-By: Julia Camini Veiga
-Matrícula: 202600
