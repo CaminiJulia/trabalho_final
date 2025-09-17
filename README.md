@@ -36,7 +36,7 @@ Este projeto é uma aplicação web CRUD (Create, Read, Update, Delete) desenvol
     ```
     pip install -r requirements.txt
     ```
-    *(Nota: Precisamos criar este arquivo! Veja abaixo)*
+    
 
 4.  **Execute a aplicação:**
     ```
