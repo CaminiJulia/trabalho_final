@@ -22,32 +22,31 @@ Este projeto é uma aplicação web CRUD (Create, Read, Update, Delete) desenvol
 ## Como Executar o Projeto
 
 1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/projeto-testes-flask.git](https://github.com/seu-usuario/projeto-testes-flask.git)
-    cd projeto-testes-flask
+    ```
+    git clone https://github.com/CaminiJulia/trabalho_final.git
     ```
 
 2.  **Crie e ative o ambiente virtual:**
-    ```bash
+    ```
     python -m venv venv
     .\venv\Scripts\Activate.ps1
     ```
 
 3.  **Instale as dependências:**
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
     *(Nota: Precisamos criar este arquivo! Veja abaixo)*
 
 4.  **Execute a aplicação:**
-    ```bash
+    ```
     python run.py
     ```
     Acesse `http://127.0.0.1:5000` no seu navegador.
 
 ## Como Executar os Testes
 
-```bash
+```
 # Executar todos os testes
 pytest
 
